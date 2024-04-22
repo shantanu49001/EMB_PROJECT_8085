@@ -3,7 +3,7 @@
 ## Overview
 This repository contains implementations of various standard programs using machine language code. Each program is designed to perform a specific computation or operation, ranging from basic arithmetic operations to more complex algorithms.
 
-## List of Programs
+
 
 1. **16-Bit No Addition**: Program to perform addition of two 16-bit numbers.
 ```
