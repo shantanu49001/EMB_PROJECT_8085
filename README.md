@@ -1,4 +1,4 @@
-# Standard Programs Implemented in Machine Language
+# Standard Programs Implemented in Machine CODE
 
 ## Overview
 This repository contains implementations of various standard programs using machine language code. Each program is designed to perform a specific computation or operation, ranging from basic arithmetic operations to more complex algorithms.
